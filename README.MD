@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Shashwat Singh</h1>
 
 <div align="center">
-  <img src="https://github.com/shashwatvikramsingh/shashwatsingh/blob/main/Shashwat%20Vikram%20Singh_page-0001.jpg" style="width: 100%; height: auto; display: block;">
+  <img src="https://github.com/shashwatvikramsingh/shashwatvikramsingh/blob/main/Shashwat%20Vikram%20Singh_page-0001.jpg" style="width: 100%; height: auto; display: block;">
 </div>
 
 <h3 align="center">
